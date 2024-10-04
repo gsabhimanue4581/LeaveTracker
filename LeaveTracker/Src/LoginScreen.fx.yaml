@@ -66,7 +66,7 @@ LoginScreen As screen:
             RadiusBottomRight: =15
             RadiusTopLeft: =15
             RadiusTopRight: =15
-            Text: ="Login as an employee"
+            Text: ="Login as an employee XYZ"
             Width: =280
             X: =969
             Y: =315
