@@ -137,7 +137,7 @@ LoginScreen As screen:
             ZIndex: =8
 
     icon1 As icon.ArrowRight:
-        Color: =Color.Black
+        Color: =Color.Red
         DisabledFill: =icon1.Fill
         DisplayMode: =DisplayMode.View
         FocusedBorderColor: =icon1.BorderColor
